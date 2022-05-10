@@ -1,5 +1,5 @@
 # Cafe-Mangment-System-Software-tool-Group-Assigment
-This assignment is done by 5 amazing student and 
+This assignment is done by 5  student 
       name                         ID
       1. Haileluule Baye --------1201890
       2. Mikias Kebede ----------1202463
